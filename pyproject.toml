@@ -35,7 +35,7 @@ classifiers = [
 ]
 
 dependencies = [
-    "boto3>=1.4.7,<2",
+    "boto3>=1.43.126,<2",
     "cfn_flip>=1.2.0",
     "click>=8.0.0",
     "pluggy>=0.13.1",
